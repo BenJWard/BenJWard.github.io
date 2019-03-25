@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Ben J. Ward</title>
+    <link>https://BenJWard.github.io/publication/</link>
+    <description>Recent content in Publications on Ben J. Ward</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://BenJWard.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Albugo candida race diversity, ploidy and host-associated microbes revealed using DNA sequence capture on diseased plants in the field</title>
+      <link>https://BenJWard.github.io/publication/jouet-2019-albugo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/jouet-2019-albugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathogen enrichment sequencing (PenSeq) enables population genomic studies in oomycetes</title>
+      <link>https://BenJWard.github.io/publication/thilliez-2019-pathogen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/thilliez-2019-pathogen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repeat associated mechanisms of genome evolution and function revealed by the Mus caroli and Mus pahari genomes</title>
+      <link>https://BenJWard.github.io/publication/thybert-2018-repeat/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/thybert-2018-repeat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ash dieback invasion of Europe was founded by two genetically divergent individuals</title>
+      <link>https://BenJWard.github.io/publication/mcmullan-2018-ash/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/mcmullan-2018-ash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary genetics of immunological supertypes reveals two faces of the Red Queen</title>
+      <link>https://BenJWard.github.io/publication/lighten-2017-evolutionary/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/lighten-2017-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary genomics of the cold-adapted diatom Fragilariopsis cylindrus</title>
+      <link>https://BenJWard.github.io/publication/mock-2017-evolutionary/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/mock-2017-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive phenotypic response to climate enabled by epigenetics in a K-strategy species, the fish Leucoraja ocellata (Rajidae)</title>
+      <link>https://BenJWard.github.io/publication/lighten-2016-adaptive/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/lighten-2016-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HYBRIDCHECK: software for the rapid detection, visualization and dating of recombinant regions in genome sequence data</title>
+      <link>https://BenJWard.github.io/publication/ward-2016-hybridcheck/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/ward-2016-hybridcheck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for suppression of immunity as a driver for genomic introgressions and host range expansion in races of Albugo candida, a generalist parasite</title>
+      <link>https://BenJWard.github.io/publication/mcmullan-2015-evidence/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/mcmullan-2015-evidence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

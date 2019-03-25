@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Ward on Ben J. Ward</title>
+    <link>https://BenJWard.github.io/authors/ben-ward/</link>
+    <description>Recent content in Ben Ward on Ben J. Ward</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://BenJWard.github.io/authors/ben-ward/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Albugo candida race diversity, ploidy and host-associated microbes revealed using DNA sequence capture on diseased plants in the field</title>
+      <link>https://BenJWard.github.io/publication/jouet-2019-albugo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/jouet-2019-albugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathogen enrichment sequencing (PenSeq) enables population genomic studies in oomycetes</title>
+      <link>https://BenJWard.github.io/publication/thilliez-2019-pathogen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/thilliez-2019-pathogen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

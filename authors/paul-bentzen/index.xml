@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Bentzen on Ben J. Ward</title>
+    <link>https://BenJWard.github.io/authors/paul-bentzen/</link>
+    <description>Recent content in Paul Bentzen on Ben J. Ward</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://BenJWard.github.io/authors/paul-bentzen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evolutionary genetics of immunological supertypes reveals two faces of the Red Queen</title>
+      <link>https://BenJWard.github.io/publication/lighten-2017-evolutionary/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/lighten-2017-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive phenotypic response to climate enabled by epigenetics in a K-strategy species, the fish Leucoraja ocellata (Rajidae)</title>
+      <link>https://BenJWard.github.io/publication/lighten-2016-adaptive/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/lighten-2016-adaptive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark McMullan on Ben J. Ward</title>
+    <link>https://BenJWard.github.io/authors/mark-mcmullan/</link>
+    <description>Recent content in Mark McMullan on Ben J. Ward</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://BenJWard.github.io/authors/mark-mcmullan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Albugo candida race diversity, ploidy and host-associated microbes revealed using DNA sequence capture on diseased plants in the field</title>
+      <link>https://BenJWard.github.io/publication/jouet-2019-albugo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/jouet-2019-albugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ash dieback invasion of Europe was founded by two genetically divergent individuals</title>
+      <link>https://BenJWard.github.io/publication/mcmullan-2018-ash/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/mcmullan-2018-ash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary genomics of the cold-adapted diatom Fragilariopsis cylindrus</title>
+      <link>https://BenJWard.github.io/publication/mock-2017-evolutionary/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/mock-2017-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for suppression of immunity as a driver for genomic introgressions and host range expansion in races of Albugo candida, a generalist parasite</title>
+      <link>https://BenJWard.github.io/publication/mcmullan-2015-evidence/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://BenJWard.github.io/publication/mcmullan-2015-evidence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
