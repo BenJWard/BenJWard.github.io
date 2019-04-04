@@ -3,6 +3,12 @@
   
     <url>
     
+      <loc>https://BenJWard.github.io/post/test-post/</loc>
+      <lastmod>2019-04-04T20:28:05+01:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://BenJWard.github.io/publication/jouet-2019-albugo/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -160,7 +166,14 @@
     <url>
     
       <loc>https://BenJWard.github.io/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-04T20:28:05+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://BenJWard.github.io/authors/ben-j.-ward/</loc>
+      <lastmod>2019-04-04T20:28:05+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -467,6 +480,7 @@
     <url>
     
       <loc>https://BenJWard.github.io/post/</loc>
+      <lastmod>2019-04-04T20:28:05+01:00</lastmod>
     </url>
   
     <url>
@@ -559,6 +573,13 @@
     <url>
     
       <loc>https://BenJWard.github.io/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://BenJWard.github.io/categories/testing/</loc>
+      <lastmod>2019-04-04T20:28:05+01:00</lastmod>
       <priority>0</priority>
     </url>
   
